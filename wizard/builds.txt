@@ -1,5 +1,5 @@
 name=Mimic-Wizard
 url=https://github.com/AKIIRA55/Openwizard--builds/raw/refs/heads/main/Zips/Mimic_wizard-kodi-21.2.zip
 icon=https://github.com/AKIIRA55/Openwizard--builds/blob/main/icon.png?raw=true
-fanart=
+fanart=https://github.com/AKIIRA55/Openwizard--builds/blob/main/fanart.png?raw=true
 description=Minha primeira build no OpenWizard
