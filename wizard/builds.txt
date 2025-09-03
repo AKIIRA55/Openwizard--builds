@@ -1,4 +1,5 @@
 name=Mimic-Wizard
-url=https://github.com/AKIIRA55/Openwizard--builds/raw/refs/heads/main/Zips/Mimic-theme.zip
-icon=https://r
-fanart=https://
+url=
+icon=
+fanart=
+description=Minha primeira build no OpenWizard
