@@ -1,0 +1,4 @@
+name=Mimic-Wizard
+url=https://
+icon=https://r
+fanart=https://

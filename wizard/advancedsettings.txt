@@ -1,0 +1,19 @@
+# Configurações avançadas do Kodi podem ser aplicadas aqui
+<advancedsettings>
+    <network>
+        <!-- Buffermode:
+             1 = Cache apenas streaming de internet (ideal para streaming IPTV/filmes) -->
+        <buffermode>1</buffermode>
+
+        <!-- cachemembuffersize:
+             Define quanto da RAM pode ser usada como cache.
+             20971520 = 20 MB (seguro para 1GB de RAM).
+             Não coloque muito alto, senão o Kodi vai travar. -->
+        <cachemembuffersize>20971520</cachemembuffersize>
+
+        <!-- readbufferfactor:
+             Controla a velocidade de pré-carregamento do vídeo.
+             3.0 é suficiente para aparelhos fracos. -->
+        <readbufferfactor>3.0</readbufferfactor>
+    </network>
+</advancedsettings>

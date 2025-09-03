@@ -1,0 +1,1 @@
+# Lista de addons que podem ser incluídos na build
